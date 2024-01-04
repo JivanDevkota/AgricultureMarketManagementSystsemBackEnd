@@ -1,0 +1,25 @@
+#server:
+#  port: 8080
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/amis
+#    username: root
+#    password: myx358rA
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+
+#spring:
+#  datasource:
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#    url: jdbc:mysql://localhost:3306/amis
+#    username: root
+#    password: myx358rA
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#  hikari:
+#    schema: default  # Change this to your database schema name
+#  show-sql: true       # Enable SQL statement logging
+
